@@ -1,3 +1,2 @@
-siteurl: http://colineberhardt.github.io/jekyll-pagination-infinite-scroll
-markdown: maruku
-paginate: 10
+siteurl: /jekyll-pagination-infinite-scroll
+paginate: 5
